@@ -60,3 +60,10 @@ def cart_price(context, lang):
 
 ## Experience
 4 years in QA role
+## Courses
+* [HTML, CSS and JavaScript](https://www.coursera.org/account/accomplishments/certificate/2RXEGUP4E93Q)
+* [Front-End Web UI Frameworks and Tools](https://www.coursera.org/account/accomplishments/certificate/ZD4HX68F82F5)
+* [Front-End JavaScript Frameworks: AngularJS](https://www.coursera.org/account/accomplishments/certificate/PNHDRSUHU3HT)
+## Foreign languages
+* English - B2
+* Czech - B2
