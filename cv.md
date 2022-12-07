@@ -15,12 +15,9 @@ QA Engineer who wants to learn more about FE
 ## Code example
 ```
 public class HomePage {
-
     public void clickLogin() {
 
-        // Perform the click operation that opens new window
         $(By.xpath("//*[@id=\"layout-bar\"]/button[3]")).click();
-
         switchTo().window(1);
 
         $(By.id("login-username")).setValue("mapytesting10");
